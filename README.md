@@ -82,10 +82,12 @@
 
 # 🚀 Featured Projects
 
-## 🎓 Attendance Management System
-🔹 Smart attendance platform built using Java + Spring Boot  
-🔹 Authentication, analytics, reports, and student/course CRUD  
-🔹 REST APIs with scalable backend architecture  
+---
+
+## 📦 Smart Inventory Management System
+🔹 Inventory and order management application  
+🔹 Admin dashboard, authentication, and discount calculation  
+🔹 Built using Next.js, Prisma, and PostgreSQL  
 
 ---
 
@@ -93,13 +95,6 @@
 🔹 Full-stack event booking platform using Next.js & PostgreSQL  
 🔹 QR-code ticket generation and dynamic pricing  
 🔹 Waitlist automation and role-based access control  
-
----
-
-## 📦 Smart Inventory Management System
-🔹 Inventory and order management application  
-🔹 Admin dashboard, authentication, and discount calculation  
-🔹 Built using Next.js, Prisma, and PostgreSQL  
 
 ---
 
@@ -130,6 +125,11 @@
 🔹 Real-time leaderboard and PDF question bank support  
 
 ---
+
+## 🎓 Attendance Management System
+🔹 Smart attendance platform built using Java + Spring Boot  
+🔹 Authentication, analytics, reports, and student/course CRUD  
+🔹 REST APIs with scalable backend architecture  
 
 # 📸 Project Showcase
 
