@@ -1,6 +1,3 @@
-# Professional GitHub Profile README for Vrushank Solanki
-
-```md
 <h1 align="center">Hi 👋, I'm Vrushank Solanki</h1>
 
 <h3 align="center">
