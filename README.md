@@ -131,30 +131,6 @@
 🔹 Authentication, analytics, reports, and student/course CRUD  
 🔹 REST APIs with scalable backend architecture  
 
-# 📸 Project Showcase
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://raw.githubusercontent.com/Vrushank2107/Vrushank2107/main/assets/projects1.png"/>
-</td>
-
-<td width="50%">
-<img src="https://raw.githubusercontent.com/Vrushank2107/Vrushank2107/main/assets/projects2.png"/>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<img src="https://raw.githubusercontent.com/Vrushank2107/Vrushank2107/main/assets/projects3.png"/>
-</td>
-
-<td width="50%">
-<img src="https://raw.githubusercontent.com/Vrushank2107/Vrushank2107/main/assets/projects4.png"/>
-</td>
-</tr>
-</table>
-
 ---
 
 # 📚 Core Computer Science Concepts
